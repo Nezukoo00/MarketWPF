@@ -1,0 +1,14 @@
+﻿[
+  {
+    
+    "Name": "Laptop",
+    "Quantity": 10,
+    "ImagePath": "images/laptop.png"
+  },
+  {
+    
+    "Name": "Smartphone",
+    "Quantity": 20,
+    "ImagePath": "images/smartphone.png"
+  }
+]
